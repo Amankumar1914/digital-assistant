@@ -1,1 +1,1 @@
-# digital-assistant
+# digital-assistant for know your rights
